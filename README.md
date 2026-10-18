@@ -8,7 +8,7 @@ git clone https://github.com/Benji377/nautilus-templates.git ~/Templates
 ```
 
 ## Contributing
-If you think i missed some files (and I am sure I did), feel free to fork this repository and add your own, or open an issue and request a new language or file template.
+If you think I missed some files (and I am sure I did), feel free to fork this repository and add your own, or open an issue and request a new language or file template.
 
 ## Credits
 - Examples from [Cristiano Fraga](https://github.com/cfgnunes)
